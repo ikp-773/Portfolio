@@ -42,6 +42,7 @@ h3 {
 .skillImg1 {
   width: 25%;
   float: left;
+  border-radius: 100%;
   padding-right: 1.875rem;
 }
 
@@ -106,7 +107,7 @@ a {
   text-decoration: none;
 }
 
-a:hover{
+a:hover {
   color: #eaf6f6
 }
 
